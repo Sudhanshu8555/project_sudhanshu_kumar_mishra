@@ -1,0 +1,9 @@
+batch_size = 32
+num_epochs = 100
+learning_rate = 0.001
+weight_decay = 1e-4
+patience = 10
+resize_x = 224
+resize_y = 224
+input_channels = 3
+num_classes = 10
